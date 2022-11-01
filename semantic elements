@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="decription" content="This Is Description For My First Page" />
+    <title>Book store</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <header>
+        <h1>Page title</h1>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+        </ul>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1emuOpixJQY" target="_blank">youtube</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <h2>titel</h2>
+            <p>this is text</p>
+            <img src="images/naruto.png" alt="" width="200" height="200"> <br>
+            <a href="">اقرأ المزيد</a>
+        </article>
+        <article>
+            <h2>titel</h2>
+            <p>this is text</p>
+            <img src="images/naruto.png" alt="" width="200" height="200"> <br>
+            <a href="">اقرأ المزيد</a>
+        </article>
+        <article>
+            <h2>titel</h2>
+            <p>this is text</p>
+            <img src="images/naruto.png" alt="" width="200" height="200"> <br>
+            <a href="">اقرأ المزيد</a>
+        </article>
+    </main>
+    <aside>
+        <h2>Categories</h2>
+        <ul></ul>
+    </aside>
+    <footer>
+        <p>&copy; Copyright 2021</p>
+    </footer>
+</body>
+
+</html>
